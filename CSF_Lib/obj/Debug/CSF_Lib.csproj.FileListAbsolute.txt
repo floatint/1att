@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\1ATT\1att\CSF_Lib\bin\Debug\CSF_Lib.dll
+C:\Users\User\Desktop\1ATT\1att\CSF_Lib\bin\Debug\CSF_Lib.pdb
+C:\Users\User\Desktop\1ATT\1att\CSF_Lib\obj\Debug\CSF_Lib.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\1ATT\1att\CSF_Lib\obj\Debug\CSF_Lib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1ATT\1att\CSF_Lib\obj\Debug\CSF_Lib.dll
+C:\Users\User\Desktop\1ATT\1att\CSF_Lib\obj\Debug\CSF_Lib.pdb
